@@ -29,5 +29,9 @@ To compare platform performance, understand audience engagement, and provide dat
 ## Dataset
 Practice dataset used for analysis. The findings should be interpreted within the scope of this dataset.
 
+## Dashboard Preview
+
+![Social Media Insights Dashboard](Social_Media_Insights_Dashboard_Screenshot.jpg)
+
 ## Author
 Neeraj J.
